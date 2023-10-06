@@ -8,6 +8,6 @@ If a different url is required to enter, that can be done by changing i.e, addin
 
 Or that can be done using cmd as the script accepts just url or username or password or all of them combined.
 
-To run the script using cmf use #python3 rtr.py (url, username , password) 
+To run the script using cmd use #python3 rtr.py (url, username , password) 
 
 This code can be made better and needs modifications as it is just my first project.
